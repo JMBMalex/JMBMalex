@@ -1,0 +1,10 @@
+body{
+    background-color: grey;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.facade{
+    width: 100%;
+    height: auto;
+    align-items: centers;
+}
